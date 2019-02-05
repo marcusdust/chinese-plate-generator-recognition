@@ -1,0 +1,13 @@
+.DS_Store
+*.pyc
+.vscode/
+.idea/
+*.jpg
+*.jpeg
+*.bmp
+*.png
+*.pb
+*.h5
+log/
+__pycache__/
+/__pycache__
